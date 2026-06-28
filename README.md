@@ -8,7 +8,7 @@
 - 🛠️ Skilled in **UI Automation, API Testing & Quality Engineering**
 - 🌱 Currently improving skills in **CI/CD & DevOps for QA**
 - 💬 Ask me about **Selenium, TestNG, REST Assured, Java**
-- 📫 Reach me at: **[your email here]**
+- 📫 Reach me at: **[sakshibbb2002@gmail.com]**
 
 ---
 
